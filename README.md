@@ -1,2 +1,4 @@
 # Business_performance_dashboard
 Business performance dashboard analyzing revenue, profit, margins, and variance between actual vs forecast.
+Tools: Excel / Power BI 
+Skills: FP&A, variance analysis, KPI tracking
